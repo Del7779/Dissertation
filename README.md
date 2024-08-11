@@ -1,2 +1,2 @@
 # Dissertation
-The file contains the code and figures.
+The file contains the code, data and figures for the dissertation. 
